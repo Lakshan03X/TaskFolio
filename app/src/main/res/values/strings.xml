@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TaskFolio</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_back">Previous</string>
+    <string name="get_start">Get Started !</string>
+    <string name="greeting">Hello !</string>
+    <string name="name">%1$s!</string>
+    <string name="onboard_text_01">Welcome to TaskFolio! Easily organize, prioritize, and track tasks with our simple, intuitive interface for efficient productivit</string>
+    <string name="onboard_text_02">Boost your productivity with TaskFolio. Manage tasks effortlessly, set priorities, and stay on top of your to-do list daily</string>
+    <string name="onboard_text_03">Your are all set! Start using TaskFolio to streamline your tasks, track progress, and achieve your goals efficiently</string>
+    <string name="stop">Stop</string>
+    <string name="start">Start</string>
+    <string name="username">Jhone Athukorala</string>
+    <string name="age">52 Years Old</string>
+    <string name="addrs">22 Lane Malabe,Sri lanka</string>
+    <string name="contact">+94 000 0000 000</string>
+    <string name="mail">jhone@gmail.com</string>
+
+</resources>
